@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wmvalente
+- 👋 Hi, I’m @wmvalente.
 - 👀 I’m interested in cybersecurity, opensource platforms and blueteam tactics. 
 - 🌱 I’m currently a lifelong learning.
 - 💞️ I’m looking to collaborate on with the community with my projects.
